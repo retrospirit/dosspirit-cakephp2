@@ -1,0 +1,123 @@
+/*  The DOS Spirit Version 8 Codename: Faraday CSS 
+ *  Layout styles
+ *  Copyright The DOS Spirit Foundation. Author: Bakkelun 
+*/
+body, html {
+    padding: 0;
+    margin: 0;
+    color: #000;
+}
+
+body {
+    background: url('/images/bg.png') top center no-repeat transparent;
+}
+
+
+div#page {
+    width: 90%;
+    min-width: 320px;
+    max-width: 1366px;
+    margin: 0 auto;
+}
+
+/* The content container */
+div.content {
+    clear: both;
+    position: relative;
+}
+
+div.contentLeft {
+    width: 60%;
+    float: left;
+}
+
+div.contentRight {
+    width: 38%;
+    float: right;
+}
+
+section {
+    clear: both;
+}
+
+footer {
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 0px 10px 12px 1px #999;
+    clear: both;
+    color: #222;
+    padding: 10px;
+    text-align: center;
+    margin-top: 40px;
+    background-color: #fff;
+
+}
+
+div.network {
+    width: 100%;
+    background: rgba(255,255,255, 0.5);
+}
+
+div.center-wrapper {
+    margin: 0 auto;
+    max-width: 1366px;
+    width: 90%;
+}
+
+div.header {
+    padding-top: 30px;
+    height: 140px;
+}
+
+div.socialInteractions { 
+    float: right;
+    margin-top: 80px;
+
+}
+.absolute {
+    position: absolute;
+}
+
+.relative {
+    position: relative;
+}
+
+.top-right {
+    top: 0;
+    right: 0;
+}
+
+.bottom-right {
+    right: 0;
+    bottom: 0;
+}
+
+.top-left {
+    top: 0;
+    left: 0;
+}
+
+.bottom-left {
+    bottom: 0;
+    left: 0;
+}
+
+div.googlead.horizontal {
+    text-align: center;
+    padding: 10px 0;
+}
+
+div.googlead.vertical {
+    padding: 10px;
+}
+
+.contentColumn {
+    vertical-align: top;
+    display: inline-block;
+    width: 49%;
+}
+
+.frontGameListContainer img {
+    width: 320px;
+    height: 120px;
+    overflow: hidden;
+}
