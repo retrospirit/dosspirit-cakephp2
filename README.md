@@ -10,7 +10,7 @@ The DOS Spirit is a high availability, high performance site focused on categori
 
 The Project
 ----------
-Started initially back in 2004 as a private home page under the name "bakkelun dot com", but separated as its own project early 2005 called "The DOS Spirit". 
+Started initially back in 2004 as a home page project, but moved as its own project early 2005 called "The DOS Spirit". 
 
 Prerequisities
 --------------
