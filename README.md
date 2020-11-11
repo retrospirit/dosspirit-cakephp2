@@ -71,3 +71,8 @@ Future planned updates
 - Achievements
 - Installs via Make
 - Upgrade MarkItDown editor
+
+
+License
+----------------------
+Use of this repository is for __educational purposes only__. You may not use this for commercial, competing resources or similar purposes. All code from The Retro Spirit - Since 1832™ is licensed under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
