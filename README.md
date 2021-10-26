@@ -1,9 +1,9 @@
-The DOS Spirit 
-==============
-Spel frå dei gamle dagane, Games from ye olde times - Since 1832!
------------------------------------------------------------------
+**This is an old, archived version of the project. Use only for educational purposes!**
 
-The DOS Spirit courtesy of The DOS Spirit Foundation
+Introduction
+--------
+
+The DOS Spirit is courtesy of The DOS Spirit Foundation.
 
 The DOS Spirit is a high availability, high performance site focused on categorizing, indexing and organizing games and applications on a wide variety of platforms from the early 80s, 90s and up to the 00s. 
 
@@ -60,7 +60,7 @@ Currently The DOS Spirit supports 9 languages including English, Spanish, Italia
 
 Build process is abit convoluted. It requires you to run the cakephp i18n shell console to correctly generate a new "default.pot" file, located in "app/Locale/default.pot". Have a look here on how that works: http://book.cakephp.org/2.0/en/console-and-shells/i18n-shell.html
 
-New locale updates to the application must checked in and done through pull requests. Then uploaded to Crowdin via the project's admin, bakkelun. Newly generated locale files (.po, located in Locale/<language>/LC_MESSAGES/default.po) will then be checked into master.
+New locale updates to the application must checked in and done through pull requests. Newly generated locale files (.po, located in Locale/<language>/LC_MESSAGES/default.po) will then be checked into master.
 
 Future planned updates
 ----------------------
